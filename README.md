@@ -3,3 +3,15 @@ This repository contains pointers to data and models accompanying the paper "Sma
 
 ## Data
 Coming soon.
+
+If you use our resources, please cite the following paper:
+```
+@misc{zhang2020small,
+      title={Small but Mighty: New Benchmarks for Split and Rephrase}, 
+      author={Li Zhang and Huaiyu Zhu and Siddhartha Brahma and Yunyao Li},
+      year={2020},
+      eprint={2009.08560},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
